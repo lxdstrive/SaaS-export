@@ -1,0 +1,7 @@
+cn\itcast\service\cargo\impl\ExtCproductServiceImpl.class
+cn\itcast\service\cargo\impl\ExportServiceImpl.class
+cn\itcast\service\cargo\impl\ExportProductServiceImpl.class
+cn\itcast\service\cargo\impl\FactoryServiceImpl.class
+cn\itcast\service\cargo\impl\ContractServiceImpl.class
+cn\itcast\service\cargo\impl\ExtEproductServiceImpl.class
+cn\itcast\service\cargo\impl\ContractProductServiceImpl.class

@@ -1,0 +1,13 @@
+cn\itcast\dao\cargo\ContractDao.class
+cn\itcast\dao\system\DeptDao.class
+cn\itcast\dao\system\ModuleDao.class
+cn\itcast\dao\system\RoleDao.class
+cn\itcast\dao\system\UserDao.class
+cn\itcast\dao\cargo\ExtCproductDao.class
+cn\itcast\dao\company\CompanyDao.class
+cn\itcast\dao\aspect\SysLogDao.class
+cn\itcast\dao\cargo\ContractProductDao.class
+cn\itcast\dao\cargo\ExportDao.class
+cn\itcast\dao\cargo\FactoryDao.class
+cn\itcast\dao\cargo\ExportProductDao.class
+cn\itcast\dao\cargo\ExtEproductDao.class
